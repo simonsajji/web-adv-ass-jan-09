@@ -1,4 +1,4 @@
-let f=fetch("http://127.0.0.1:5500/Advanced-FE-Assignments/assignment-kbc-fetch/kbc.json");
+let f=fetch("./kbc.json");
 let opts=document.getElementsByClassName("options");
 let container=document.getElementById("container");
 
