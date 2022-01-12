@@ -54,7 +54,7 @@ f.then((a)=> {
 
                         }
                         else{
-                            function(){
+                            
                                 
                                 if(opts[0].style.backgroundColor!="green" || opts[1].style.backgroundColor!="green" || opts[2].style.backgroundColor!="green" || opts[2].style.backgroundColor!="green" || opts[3].style.backgroundColor!="green"){
                                    ++i;
@@ -71,7 +71,7 @@ f.then((a)=> {
                 
                                     },500);
                                 }
-                            }
+                            
 
                         }
                         
